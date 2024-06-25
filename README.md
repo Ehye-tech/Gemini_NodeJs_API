@@ -1,6 +1,5 @@
 # Gemini_NodeJs_API
 
-**Project Name** (Replace with your project name)
 
 **Description**
 
