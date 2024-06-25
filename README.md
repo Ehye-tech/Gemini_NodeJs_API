@@ -68,23 +68,7 @@ This microservice API provides a backend for your application, utilizing Node.js
 **CORS:**
 
 - By default, this API allows requests from all origins using `cors({ origin: '*' })`. Update this configuration for production environments to restrict access to authorized origins.
-
-**Testing**
-
-- Unit tests are recommended to ensure the API functions as expected. You can use testing frameworks like Jest or Mocha for this purpose.
-
-**Deployment**
-
-- For production environments, consider deploying your Node.js application as a container image on platforms like Docker or Kubernetes. Configure environment variables and scaling options for your specific deployment setup.
-
-**License**
-
-(Specify the license under which your project is distributed.)
-
-**Contribution**
-
-(Outline your contribution guidelines if you welcome pull requests or other forms of community involvement.)
-
+  
 **Additional Notes**
 
 - This API relies on Google Cloud Platform access and an API key. Refer to Google's documentation for details on setting up your project and API access.
