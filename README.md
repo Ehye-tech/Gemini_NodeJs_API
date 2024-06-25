@@ -1,7 +1,5 @@
 # Gemini_NodeJs_API
 
-Absolutely! Here's the improved READ.ME file incorporating the insights from the provided ratings and your code snippet:
-
 **Project Name** (Replace with your project name)
 
 **Description**
