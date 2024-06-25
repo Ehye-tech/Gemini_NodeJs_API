@@ -1,5 +1,6 @@
 # Gemini_NodeJs_API
 
+<img width="844" alt="Screen Shot 2024-06-25 at 1 57 42 PM" src="https://github.com/Ehye-tech/Gemini_NodeJs_API/assets/63075203/2e0162a9-8dbb-4cc9-8af7-741d056df488">
 
 **Description**
 
